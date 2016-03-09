@@ -22,7 +22,7 @@ python main.py $TEXT
 
 * Pillow
 
-> 注意: 如果实在虚拟环境安装可以在Alfred Workflow设计界面打开`Run script`里面进入虚拟环境之后再执行此工具.
+> 注意: 如果是在虚拟环境安装可以在Alfred Workflow设计界面打开`Run script`里面进入虚拟环境之后再执行此工具.
 
 
 License
